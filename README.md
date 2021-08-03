@@ -1,6 +1,6 @@
 ## Buenas Tardes, Eu sou o Vitor Mariano
 
-- 💻 Po enquanto não trabalho
+- 💻 Por enquanto não estou trabalhando
 - 👨‍🎓 Estudando JavaScript
 - 🏃‍♂️ Na correria do dia a dia
 - 📱 Meu contato: vitor.vitormariano@outlook.com
