@@ -1,9 +1,9 @@
 ## Buenas Tardes, Eu sou o Vitor Mariano
 
-- 💻 Por enquanto não estou trabalhando
+- 💻 Analista desenvolvedor
 - 👨‍🎓 Estudando e aprendendo a desenvolver
 - 🏃‍♂️ Na correria do dia a dia
-- 📱 Meu contato: vitor.vitormariano@outlook.com
+- 📱 Meu contato: +55 (11) 98436-1971
 - 📫 Sempre em busca de desafios
 <div>
   <a href="https://github.com/VitorMariano-dev">
